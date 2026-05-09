@@ -1,4 +1,4 @@
-# EduGateway - Education Consultancy Platform
+# Tamil Nadu All Education Consultanc
 
 A premium, data-driven education consultancy website built with React and Vite. This platform specializes in providing comprehensive admission guidance for top universities in India and abroad.
 
