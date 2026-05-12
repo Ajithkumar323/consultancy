@@ -26,9 +26,9 @@ const Home = () => {
   return (
     <div className="w-full overflow-hidden">
       <SEO 
-        title="Home" 
-        description="TNAEC is your trusted partner for medical and engineering admissions in India and abroad. Expert guidance for SRM, VIT, SASTRA, and Top Russian/Georgian Universities."
-        keywords="TNAEC, SRM admission, VIT admission, SASTRA admission, MBBS in Russia, MBBS in Georgia, engineering admission guidance Karur, best education consultancy Tamil Nadu"
+        title="Best Education Consultancy in Tamil Nadu" 
+        description="TNAEC is your trusted partner for medical and engineering admissions in India and abroad. Expert guidance for TN Engineering (SRM, VIT, SASTRA) and Top Russian/Georgian Universities."
+        keywords="TN consultancy, TN engineering consultancy, best education consultancy Tamil Nadu, college admission guidance India, medical admission consultancy TN, engineering admission support, SRM admission, VIT admission, SASTRA admission, MBBS in Russia, MBBS in Georgia, TNAEC Karur"
       />
       <Hero />
       <ServicesSection />

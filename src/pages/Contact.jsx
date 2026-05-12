@@ -36,9 +36,9 @@ const Contact = () => {
   return (
     <div className="pt-24 min-h-screen bg-slate-50">
       <SEO 
-        title="Contact Us" 
-        description="Get in touch with TNAEC for expert education counseling. Visit our Karur headquarters or contact us via phone/email."
-        keywords="contact TNAEC, education counselor Karur, TNAEC phone number, TNAEC office location, admission inquiry"
+        title="Contact TNAEC | College Admission Support Tamil Nadu" 
+        description="Get in touch with TNAEC for expert education counseling. We offer the best college admission support in Tamil Nadu for medical and engineering students."
+        keywords="contact TNAEC, TN engineering consultancy, TN medical consultancy, college admission support Tamil Nadu, TNAEC Karur office, admission inquiry India"
       />
       {/* Hero Section */}
       <div className="bg-primary py-24 text-center relative overflow-hidden">

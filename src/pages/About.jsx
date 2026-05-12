@@ -13,9 +13,9 @@ const About = () => {
   return (
     <div className="pt-24 min-h-screen bg-slate-50">
       <SEO 
-        title="About Us" 
-        description="Learn more about TNAEC's mission to empower the next generation of healthcare and engineering professionals through ethical guidance."
-        keywords="TNAEC mission, education consultant Karur, ethical admission guidance, TNAEC founder, study abroad consultancy Tamil Nadu"
+        title="About TNAEC | Best Education Consultant in Tamil Nadu" 
+        description="Learn more about TNAEC's mission. We are the best education consultant in Tamil Nadu, providing ethical guidance for healthcare and engineering admissions."
+        keywords="TNAEC mission, education consultant Karur, TN consultancy, best education consultant Tamil Nadu, ethical admission guidance, TNAEC founder, study abroad consultancy Tamil Nadu"
       />
       
       {/* Header */}
