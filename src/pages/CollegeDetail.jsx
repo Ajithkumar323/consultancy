@@ -70,7 +70,7 @@ const CollegeDetail = () => {
   }
 
   return (
-    <div className="pt-20 min-h-screen bg-white">
+    <div className="pt-20 min-h-screen bg-white relative">
       <SEO 
         title={`${college.name} Admission Guidance`}
         description={`Secure your admission at ${college.name}, ${college.location}. TNAEC provides expert counseling for ${college.courses?.join(', ') || 'various courses'}. Contact us for fees and seat details.`}

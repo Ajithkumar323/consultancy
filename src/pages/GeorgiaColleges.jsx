@@ -15,10 +15,6 @@ const GeorgiaColleges = () => {
       />
       {/* Header */}
       <div className="bg-primary py-24 text-center relative overflow-hidden">
-        <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-secondary/10 rounded-full blur-[100px]" />
-        <div className="absolute -bottom-20 -left-20 w-80 h-80 bg-white/5 rounded-full blur-[80px]" />
-        
-        <div className="relative z-10 max-w-5xl mx-auto px-4">
         <div className="absolute top-8 left-8 sm:top-12 sm:left-12 z-20">
           <Link 
             to="/" 
@@ -28,6 +24,10 @@ const GeorgiaColleges = () => {
             <span className="text-xs uppercase tracking-[0.2em]">Back to Home</span>
           </Link>
         </div>
+        <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-secondary/10 rounded-full blur-[100px]" />
+        <div className="absolute -bottom-20 -left-20 w-80 h-80 bg-white/5 rounded-full blur-[80px]" />
+        
+        <div className="relative z-10 max-w-5xl mx-auto px-4">
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
